@@ -1,0 +1,29 @@
+/* h1{
+  color: yellow
+}
+p{
+  color: green
+}
+body{
+  background: url(https://3j0grh44ocny4a6kcn288izx-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/aruba-1-950x530.jpg);
+} */
+/* div{
+  border-color: red;
+  border-width: thick;
+  border-style:double;
+  background-color:black;
+} */
+.firstDiv{
+  color:blue;
+}
+
+.secondDiv{
+  color:red
+}
+/* p{
+  color: grey
+} */
+#kittu {
+  text-decoration: overline;
+  text-shadow: 1;
+}

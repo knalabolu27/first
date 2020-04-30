@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: 'Modak', cursive;
+  font-size: 50px
+}
+table{
+  margin: auto;
+}
+td{
+  border: solid 5px white;
+  height: 400px;
+  width: 200px;
+}
+#a{
+  background-color: #2B4141;
+}
+#b{
+  background-color: #0EB1D2;
+}
+#c{
+  background-color: #34E4EA;
+}
+
+#d{
+  background-color: #8AB9B5;
+}
+#e{
+  background-color: #C8C2AE;
+}

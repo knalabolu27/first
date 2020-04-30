@@ -1,0 +1,78 @@
+h1{
+  text-decoration: inherit;
+  text-align: center;
+  font-style: italic;
+}
+
+
+body{
+  border: width"20" height"5";
+}
+.basic{
+  color: white;
+}
+
+ul{
+  font-size: 30px;
+
+}
+
+.types{
+  font-family: 'Livvic', sans-serif;
+  background-image: url(icon.jpeg);
+  color: white;
+}
+#kit
+{
+  font-size: 30px;
+}
+.form{
+
+
+  color: #011627;
+  text-align: center;
+  font-size: 1.5em;
+}
+h1{
+  background-color: black;
+  color:white;
+}
+
+#kit
+{
+  background-color: inherit;
+  color: green;
+}
+
+#sub{
+  background-color: #040606;
+  height: 70px;
+  width: 180px;
+  color: #0DA1BF;
+  font-size: 1.5em;
+  border-radius: 30px
+}
+
+.navbar{
+  padding-right: 5em;
+  padding-left: 5em;
+
+  color: white;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+.Sig{
+  background-image: icon.jpeg;
+  background-color: black;
+  color:white;
+}
+
+
+  img{
+  height: 40px;
+  width: 60px
+
+}
